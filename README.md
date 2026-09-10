@@ -1,6 +1,6 @@
 # PokeAlliance — Anti-Cheat / Anti-Analysis Audit
 
-> **Read this first.** PokeAlliance has a large botting scene, but the staff are constantly changing
+> PokeAlliance has a large botting scene, but the staff are constantly changing
 > their anti-bot methods — anything in this document can be obsolete tomorrow.
 >
 > The game is growing fast, so there is a good chance the staff add a **kernel-mode anti-cheat** at some
@@ -11,7 +11,7 @@
 > heuristics flag you, a GM comes and checks you by hand, and no amount of client-side work protects
 > you from that.
 >
-> This is **mostly dynamic analysis**, and I will keep updating it over time as the client and the
+> This is **mostly static analysis**, and I will keep updating it over time as the client and the
 > server-side behaviour change.
 >
 > *Last updated 2026-09-09 — analysed build: 2026-08-28.*
