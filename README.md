@@ -12,7 +12,7 @@
 > heuristics flag you, a GM comes and checks you by hand, and no amount of client-side work protects  
 > you from that.
 >
-> This is **mostly dynamic analysis**, and I will keep updating it over time as the client and the  
+> This is **mostly static analysis**, (will do dynamic soon), and I will keep updating it over time as the client and the  
 > server-side behaviour change.
 >
 > *Last updated 2026-09-15 — analysed build: 2026-09-15.*
